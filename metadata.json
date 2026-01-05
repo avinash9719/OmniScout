@@ -1,0 +1,9 @@
+
+{
+  "name": "OmniScout",
+  "description": "An intelligent universal resource scout that searches the web for books, research papers, media, and academic content using Gemini Search Grounding.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
